@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CaptureWave<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning Compose Multiplatform<br>💬 Ask me about Android<br>⚡ Fun fact Compose & Flutter are of Google
+🔭 I’m currently working on CodeKosh<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning Compose Multiplatform<br>💬 Ask me about Android<br>⚡ Fun fact Compose & Flutter are of Google
 
 
 # 💻 Tech Stack:
