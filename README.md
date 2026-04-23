@@ -1,5 +1,6 @@
 ![](Bottom_up.svg)
 
+![Profile views](https://komarev.com/ghpvc/?username=anirudhkhemriyaa&label=Profile%20views&color=0e75b6&style=flat)
 
 # 💫 About Me:
 I’m a passionate Android developer focused on building innovative, functional, and accessible applications. With a strong blend of technical expertise and design sensibility, I create user-friendly interfaces that are both visually appealing and easy to navigate.
